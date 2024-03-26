@@ -1,5 +1,9 @@
 body
 {
+	background-image: url(img/hatter.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
 	background-size: cover;
 	padding-left: 5em;
 	padding-right: 5em;
@@ -34,4 +38,25 @@ label
 {
 	padding: 12px 12px 12px 0;
 	display: inline-block;
+}
+
+#orakep
+{
+	padding-top: 100px;
+}
+
+#vonal
+{
+	height: 20px;
+	background-color: red;
+}
+
+ 
+.masodik
+{
+	font-size: 1.2em;
+	text-align: center;
+	font-style: italic;
+	color: red;
+	list-style-type: none;
 }
